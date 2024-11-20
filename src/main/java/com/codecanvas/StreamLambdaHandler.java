@@ -1,4 +1,4 @@
-package com.javatechie;
+package com.codecanvas;
 
 
 import com.amazonaws.serverless.exceptions.ContainerInitializationException;

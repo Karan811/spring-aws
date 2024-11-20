@@ -1,4 +1,4 @@
-package com.javatechie.controller;
+package com.codecanvas.controller;
 
 
 import org.springframework.web.bind.annotation.*;

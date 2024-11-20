@@ -1,7 +1,7 @@
-package com.javatechie.controller;
+package com.codecanvas.controller;
 
-import com.javatechie.dto.Course;
-import com.javatechie.service.CourseService;
+import com.codecanvas.dto.Course;
+import com.codecanvas.service.CourseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

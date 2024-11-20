@@ -1,10 +1,10 @@
-package com.javatechie;
+package com.codecanvas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Import;
 
-import com.javatechie.controller.PingController;
+import com.codecanvas.controller.PingController;
 
 
 @SpringBootApplication
